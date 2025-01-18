@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <link rel="icon" href="https://www.matsanda.mtsn2kotacirebon.sch.id/__statics/gudangsoal/files/Hacked-By-PIANXD.jpg" type="image/x-icon"> 
+    <meta name="keywords" content="Hacked By RendySec">
+    <meta name="description" content="Hacked By RendySec">
+    <meta name="author" content="Hacked By RendySec">
+    <meta name="theme-color" content="#343a40"/>
+    <meta property="og:title" content="Hacked By RendySec">
+    <meta name="description" content="Hacked By RendySec1337">
+    <meta name="keywords" content="hacked by, hacker,Touch, deface, wordpress, website, whitehat, blackhat, greyhat, defacer, hack, mirror, ClaratZ">
+    <meta property="og:description" content="Hacked By PIAN XD">
+    <title>Hacked By RendySec1337 x NucleuX</title> 
+    <link href="https://fonts.googleapis.com/css?family=Kelly+Slab" rel="stylesheet" type="text/css"> 
+    <link rel="stylesheet" href="https://rawcdn.githack.com/nako48/shiraookaaaa/f37b3bb82ba199ac8df3a394d8652e56872935a9/style-css.css">
+    <style>
+        body {
+            color: #FFFFFF;
+            font-family: "Kelly Slab", sans-serif;
+            font-weight: 60;
+            height: 100vh;
+            margin: 0;
+            padding: 0;
+            background-color: black;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .hmm {
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .ya {
+            align-items: center;
+            display: flex;
+            justify-content: center;
+        }
+        .udah {
+            position: relative;
+        }
+        .iya {
+            text-align: center;
+        }
+        body {
+            background-image: url("");
+            background-repeat: no-repeat;
+            animation: none;
+            background-size: 100% 100%;
+        }
+        @media only screen and (max-width: 768px) {
+            body {
+                width: 100vw;
+                height: 100vh;
+                margin: 0;
+                padding: 0;
+            }
+            .hmm {
+                height: 100vh;
+                width: 100vw;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="hmm ya udah"> 
+        <div class="iya"> 
+            <img src="https://www.matsanda.mtsn2kotacirebon.sch.id/__statics/gudangsoal/files/Hacked-By-VinzXploit.jpg" alt="Hacked By VinzXploit" height="20%"><br>
+            <table width="100%" height="80%">
+                    <font color="red" size="6">[+] Hacked By RendySec1337 x NucleuX [+]</font>
+                </div>
+                <br><br>
+                <font size="5" color="white">"Wh00ps?? your system is weak, please add your website"</font><br>
+                <center>
+                </center><br>
+                      <font size="5" color="red">We Are Jabar Error System</font><br><font color="white"></font></font></font></font></font>
+                     <i><font color="white" size="5"><a target=_blank style="text-decoration: none;"><font color="white">./HanJsXploit - VinzXploit - NucleuX - CHIRSTY - RissExploit - RIDXPLOIT - MOCXZ - PIAN XD - SUKADEFACE303<br><br></font></a></i>
+                     <audio src="https://cdn.prinsh.com/data-1/mp3/mood_nighttiks.mp3" loop="1" controls="1" autoplay="1"></audio>
+            </table>
+    </div>
+</script>
+</body>
+</html>
